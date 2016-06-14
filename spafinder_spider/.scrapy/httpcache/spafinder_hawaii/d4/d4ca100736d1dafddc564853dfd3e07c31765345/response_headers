@@ -1,0 +1,20 @@
+X-Node: www_all, web39-r6-sfo2
+Content-Encoding: gzip
+Set-Cookie: __cfduid=d7b443582223451061ba0a7c553f3ecfa1464262951; expires=Fri, 26-May-17 11:42:31 GMT; path=/; domain=.yelp.com; HttpOnly
+Set-Cookie: yuv=tTGWFx7xOSKmlF6XJ9Klm8lWzic-H8H6hdt8exylnuNcTwHkTCOjf_jDek_LgM8r-At-klgGnTcKb2UyFGDpvKPAQnmNceh-; Domain=.yelp.com; Max-Age=630720000; Path=/; expires=Wed, 21-May-2036 11:42:31 GMT
+Set-Cookie: bse=bf02a71d624dfd8cde02140393783569; Domain=.yelp.com; Path=/; HttpOnly
+Set-Cookie: recentlocations=1079+Fairview+Avenue%2C+San+Jose%2C+CA+95125%2C+USA; Domain=.yelp.com; Path=/
+Set-Cookie: location=%7B%22city%22%3A+%22Honolulu%22%2C+%22zip%22%3A+%22%22%2C+%22address1%22%3A+%22%22%2C+%22address2%22%3A+%22%22%2C+%22address3%22%3A+%22%22%2C+%22state%22%3A+%22HI%22%2C+%22country%22%3A+%22US%22%2C+%22unformatted%22%3A+%22hawaii%22%7D; Domain=.yelp.com; Max-Age=630720000; Path=/; expires=Wed, 21-May-2036 11:42:31 GMT
+Set-Cookie: hl=en_US; Domain=.yelp.com; Max-Age=630720000; Path=/; expires=Wed, 21-May-2036 11:42:32 GMT
+Set-Cookie: sc=8a93028c18; Path=/
+Vary: Accept-Encoding
+Server: cloudflare-nginx
+X-Xss-Protection: 1; report=https://www.yelp.com/xss_protection_report
+X-Mode: ro
+Cache-Control: private
+Date: Thu, 26 May 2016 11:42:32 GMT
+X-Proxied: extlb8-r11-sfo2
+Cf-Ray: 2a90f6d66c570657-SJC
+Content-Type: text/html; charset=UTF-8
+X-Crawlera-Version: 1.11.5
+X-Crawlera-Slave: 166.88.110.180:8800

@@ -1,0 +1,20 @@
+X-Xss-Protection: 1; report=https://www.yelp.com/xss_protection_report
+Content-Encoding: gzip
+Set-Cookie: __cfduid=d20ace5a0407327dbdb639358fa4091051464261779; expires=Fri, 26-May-17 11:22:59 GMT; path=/; domain=.yelp.com; HttpOnly
+Set-Cookie: yuv=TZDzOqstDwKATmnb37Vh-6HyUZELYky2CRxswBo0xd9HJakxoR_WTjJ_S6L-vLAwieOVg2SexxANu7FNnDCL-JDPT0DQtRFx; Domain=.yelp.com; Max-Age=630720000; Path=/; expires=Wed, 21-May-2036 11:22:59 GMT
+Set-Cookie: bse=7c37e3afc9c74281553d324fac0ea786; Domain=.yelp.com; Path=/; HttpOnly
+Set-Cookie: hl=en_US; Domain=.yelp.com; Max-Age=630720000; Path=/; expires=Wed, 21-May-2036 11:22:59 GMT
+Set-Cookie: sc=8a93028c18; Path=/
+Cache-Control: private
+Vary: Accept-Encoding
+Server: cloudflare-nginx
+Content-Security-Policy-Report-Only: report-uri https://www.yelp.com/csp_report?site=www; object-src 'self'; reflected-xss filter; frame-ancestors 'self'
+X-Node: www_all, web31-r6-iad1
+X-Mode: ro
+Via: 1.0 us0912.tmobatt.com (squid)
+Date: Thu, 26 May 2016 11:23:00 GMT
+X-Proxied: extlb4-r9-iad1
+Cf-Ray: 2a90da37cb1d0105-DFW
+Content-Type: text/html; charset=UTF-8
+X-Crawlera-Version: 1.11.5
+X-Crawlera-Slave: 192.3.156.65:80

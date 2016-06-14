@@ -1,0 +1,21 @@
+X-Node: www_all, 10-64-86-132-uswest1aprod
+Content-Encoding: gzip
+Set-Cookie: __cfduid=d3b421f1a147c2650e7a6fefcabaedf3a1464260312; expires=Fri, 26-May-17 10:58:32 GMT; path=/; domain=.yelp.com; HttpOnly
+Set-Cookie: yuv=bDrC6SqonCd2dWnOwuej8e6ipHTuD_VJjXmpkVdNQQH9vWN-AZsk1D97DSO_ectG5qyBjtWZQa9KnITYIghy0bRJ879ZGtm4; Domain=.yelp.com; Max-Age=630720000; Path=/; expires=Wed, 21-May-2036 10:58:32 GMT
+Set-Cookie: bse=b75a1c691b9fa0da1280bf9c91d31da7; Domain=.yelp.com; Path=/; HttpOnly
+Set-Cookie: recentlocations=3912+Brandywine+Street%2C+Philadelphia%2C+PA+19104%2C+USA; Domain=.yelp.com; Path=/
+Set-Cookie: location=%7B%22city%22%3A+%22Salt+Lake+City%22%2C+%22zip%22%3A+%22%22%2C+%22address1%22%3A+%22%22%2C+%22address2%22%3A+%22%22%2C+%22address3%22%3A+%22%22%2C+%22state%22%3A+%22UT%22%2C+%22country%22%3A+%22US%22%2C+%22unformatted%22%3A+%22Salt+Lake+City%2C+Salt+Lake+City%2C+UT%22%7D; Domain=.yelp.com; Max-Age=630720000; Path=/; expires=Wed, 21-May-2036 10:58:32 GMT
+Set-Cookie: hl=en_US; Domain=.yelp.com; Max-Age=630720000; Path=/; expires=Wed, 21-May-2036 10:58:33 GMT
+Set-Cookie: sc=8a93028c18; Path=/
+Cache-Control: private
+Vary: Accept-Encoding
+Server: cloudflare-nginx
+X-Xss-Protection: 1; report=https://www.yelp.com/xss_protection_report
+X-Mode: ro
+Via: 1.1 s_wx1067 (squid/3.5.6)
+Date: Thu, 26 May 2016 10:58:33 GMT
+X-Proxied: 10-64-0-235-uswest1aprod
+Cf-Ray: 2a90b6673f8f23fc-IAD
+Content-Type: text/html; charset=UTF-8
+X-Crawlera-Version: 1.11.5
+X-Crawlera-Slave: 158.222.5.22:80

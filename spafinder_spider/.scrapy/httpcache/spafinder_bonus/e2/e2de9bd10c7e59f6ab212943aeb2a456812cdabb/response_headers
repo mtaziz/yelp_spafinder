@@ -1,0 +1,21 @@
+X-Node: www_all, web87-r8-iad1
+Content-Encoding: gzip
+Set-Cookie: __cfduid=d1e9b06b964ae9defa7516bbb9239f94b1464259099; expires=Fri, 26-May-17 10:38:19 GMT; path=/; domain=.yelp.com; HttpOnly
+Set-Cookie: yuv=_43CS69zU4y3Bo9ydeN5zahNi7-puyRTaX2vmHjhK_f7C5nBMnlxs5o36V3QvcmRFt-3jaGkpWoQqxNMN81sPp-Sssvg0O9Z; Domain=.yelp.com; Max-Age=630720000; Path=/; expires=Wed, 21-May-2036 10:38:19 GMT
+Set-Cookie: bse=11f1de64a9c689fb8b17af1204570481; Domain=.yelp.com; Path=/; HttpOnly
+Set-Cookie: recentlocations=Charlotte%2C+NC%2C+USA; Domain=.yelp.com; Path=/
+Set-Cookie: location=%7B%22city%22%3A+%22Salt+Lake+City%22%2C+%22zip%22%3A+%22%22%2C+%22address1%22%3A+%22%22%2C+%22address2%22%3A+%22%22%2C+%22address3%22%3A+%22%22%2C+%22state%22%3A+%22UT%22%2C+%22country%22%3A+%22US%22%2C+%22unformatted%22%3A+%22Salt+Lake+City%2C+Salt+Lake+City%2C+UT%22%7D; Domain=.yelp.com; Max-Age=630720000; Path=/; expires=Wed, 21-May-2036 10:38:19 GMT
+Set-Cookie: hl=en_US; Domain=.yelp.com; Max-Age=630720000; Path=/; expires=Wed, 21-May-2036 10:38:20 GMT
+Set-Cookie: sc=8a93028c18; Path=/
+Cache-Control: private
+Vary: Accept-Encoding
+Server: cloudflare-nginx
+X-Xss-Protection: 1; report=https://www.yelp.com/xss_protection_report
+X-Mode: ro
+Via: 1.1 s_mf25 (squid/3.5.6)
+Date: Thu, 26 May 2016 10:38:20 GMT
+X-Proxied: extlb3-r8-iad1
+Cf-Ray: 2a9098cbecf00932-DFW
+Content-Type: text/html; charset=UTF-8
+X-Crawlera-Version: 1.11.5
+X-Crawlera-Slave: 104.247.99.35:80

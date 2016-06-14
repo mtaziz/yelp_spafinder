@@ -1,0 +1,12 @@
+Via: 1.1 atlanta18.datatrip.net (squid/3.3.8)
+Set-Cookie: __cfduid=d8dd3572a7b39c2e21d7fbfbe9041fea31464263439; expires=Fri, 26-May-17 11:50:39 GMT; path=/; domain=.yelp.com; HttpOnly
+Vary: User-Agent
+Server: cloudflare-nginx
+X-Node: www_all
+X-Mode: ro
+Date: Thu, 26 May 2016 11:50:43 GMT
+X-Proxied: 10-64-16-235-uswest1bprod
+Cf-Ray: 2a9102c33f58386a-ATL
+Content-Type: text/html; charset=UTF-8
+X-Crawlera-Version: 1.11.5
+X-Crawlera-Slave: 45.43.196.35:63822

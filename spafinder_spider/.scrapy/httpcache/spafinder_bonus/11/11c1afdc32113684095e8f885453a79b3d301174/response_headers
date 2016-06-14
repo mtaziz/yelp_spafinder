@@ -1,0 +1,21 @@
+X-Node: www_all, web33-r6-iad1
+Content-Encoding: gzip
+Set-Cookie: __cfduid=db466e088d21ecf2dbc0a331dda20a1fe1464260430; expires=Fri, 26-May-17 11:00:30 GMT; path=/; domain=.yelp.com; HttpOnly
+Set-Cookie: yuv=wRs2nDyzKXQW93X1I9mMup5rfPAN3jNYtGYyEIPMFq9_dpklmJQBB7ueRtPD2qwVtgFlcF0WfiwAS3dfVLteJiUSznWs2G6l; Domain=.yelp.com; Max-Age=630720000; Path=/; expires=Wed, 21-May-2036 11:00:30 GMT
+Set-Cookie: bse=a54694c09743622195a1c42aa3f43dbd; Domain=.yelp.com; Path=/; HttpOnly
+Set-Cookie: recentlocations=2156+Tilden+Avenue%2C+Brooklyn%2C+NY+11226%2C+USA; Domain=.yelp.com; Path=/
+Set-Cookie: location=%7B%22city%22%3A+%22Salt+Lake+City%22%2C+%22zip%22%3A+%22%22%2C+%22address1%22%3A+%22%22%2C+%22address2%22%3A+%22%22%2C+%22address3%22%3A+%22%22%2C+%22state%22%3A+%22UT%22%2C+%22country%22%3A+%22US%22%2C+%22unformatted%22%3A+%22Salt+Lake+City%2C+Salt+Lake+City%2C+UT%22%7D; Domain=.yelp.com; Max-Age=630720000; Path=/; expires=Wed, 21-May-2036 11:00:30 GMT
+Set-Cookie: hl=en_US; Domain=.yelp.com; Max-Age=630720000; Path=/; expires=Wed, 21-May-2036 11:00:31 GMT
+Set-Cookie: sc=8a93028c18; Path=/
+Cache-Control: private
+Vary: Accept-Encoding
+Server: cloudflare-nginx
+X-Xss-Protection: 1; report=https://www.yelp.com/xss_protection_report
+X-Mode: ro
+Via: 1.1 s_sh6 (squid/3.5.6)
+Date: Thu, 26 May 2016 11:00:31 GMT
+X-Proxied: extlb4-r9-iad1
+Cf-Ray: 2a90b94a6ba02641-DFW
+Content-Type: text/html; charset=UTF-8
+X-Crawlera-Version: 1.11.5
+X-Crawlera-Slave: 173.232.118.153:80

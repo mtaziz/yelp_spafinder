@@ -1,0 +1,19 @@
+X-Node: www_all, web29-r6-iad1
+Content-Encoding: gzip
+Set-Cookie: __cfduid=d4459eade53639af1789b5e2b9001034f1464260832; expires=Fri, 26-May-17 11:07:12 GMT; path=/; domain=.yelp.com; HttpOnly
+Set-Cookie: yuv=4vk7VkJp0p6AMNLacws2MyTHacjpuuePmG4RZfJ_I5-90Razxj4V9Jl4nXICWXjl9xEjfegcI-V5znVT0QiJoKWWlzCOCWCc; Domain=.yelp.com; Max-Age=630720000; Path=/; expires=Wed, 21-May-2036 11:07:11 GMT
+Set-Cookie: bse=09fdfbdfdb5e4d26c709ab4a03a6f24a; Domain=.yelp.com; Path=/; HttpOnly
+Set-Cookie: hl=en_US; Domain=.yelp.com; Max-Age=630720000; Path=/; expires=Wed, 21-May-2036 11:07:13 GMT
+Set-Cookie: sc=8a93028c18; Path=/
+Cache-Control: private
+Vary: Accept-Encoding
+Server: cloudflare-nginx
+X-Xss-Protection: 1; report=https://www.yelp.com/xss_protection_report
+X-Mode: ro
+Via: 1.1 s_sr14 (squid/3.5.6)
+Date: Thu, 26 May 2016 11:07:13 GMT
+X-Proxied: extlb4-r9-iad1
+Cf-Ray: 2a90c31840480166-ORD
+Content-Type: text/html; charset=UTF-8
+X-Crawlera-Version: 1.11.5
+X-Crawlera-Slave: 104.227.66.5:80

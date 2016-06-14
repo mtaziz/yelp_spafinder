@@ -1,0 +1,12 @@
+Via: 1.1 s_fl324 (squid/3.5.12)
+Set-Cookie: __cfduid=d973fc9b326d86195f6bc911582f72b631464263737; expires=Fri, 26-May-17 11:55:37 GMT; path=/; domain=.yelp.com; HttpOnly
+Vary: User-Agent
+Server: cloudflare-nginx
+X-Node: www_all
+X-Mode: ro
+Date: Thu, 26 May 2016 11:55:41 GMT
+X-Proxied: 10-64-0-189-uswest1aprod
+Cf-Ray: 2a910a0949922623-DFW
+Content-Type: text/html; charset=UTF-8
+X-Crawlera-Version: 1.11.5
+X-Crawlera-Slave: 204.44.112.248:80

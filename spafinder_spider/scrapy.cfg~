@@ -1,0 +1,13 @@
+# Automatically created by: scrapy startproject
+#
+# For more information about the [deploy] section see:
+# https://scrapyd.readthedocs.org/en/latest/deploy.html
+
+[settings]
+default = spafinder_spider.settings
+
+[deploy]
+#url = http://localhost:6800/
+project = spafinder_spider
+project = 67412
+username = 0b731dbb44c0464ca11efc547bdb33cb

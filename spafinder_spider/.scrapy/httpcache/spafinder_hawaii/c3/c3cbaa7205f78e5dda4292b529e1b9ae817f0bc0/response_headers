@@ -1,0 +1,20 @@
+X-Node: www_all, web95-r6-iad1
+Content-Encoding: gzip
+Set-Cookie: __cfduid=d5a073aa03c252b6d1a7b1a6557aaa7681464263072; expires=Fri, 26-May-17 11:44:32 GMT; path=/; domain=.yelp.com; HttpOnly
+Set-Cookie: yuv=K69OxnHiATHSdUHkpgClTIvYLRq2t3zoPiPS_QXqLF1hd93guEFyYlo0jKkZDQHzM7ttT-KVh29XGdWRFP8J5ZJ0l-TmqCkh; Domain=.yelp.com; Max-Age=630720000; Path=/; expires=Wed, 21-May-2036 11:44:32 GMT
+Set-Cookie: bse=90532f9499d0b3004249df0d4fd7b80b; Domain=.yelp.com; Path=/; HttpOnly
+Set-Cookie: recentlocations=5+Niagara+Square%2C+Buffalo%2C+NY+14202%2C+USA; Domain=.yelp.com; Path=/
+Set-Cookie: location=%7B%22city%22%3A+%22Honolulu%22%2C+%22zip%22%3A+%22%22%2C+%22address1%22%3A+%22%22%2C+%22address2%22%3A+%22%22%2C+%22address3%22%3A+%22%22%2C+%22state%22%3A+%22HI%22%2C+%22country%22%3A+%22US%22%2C+%22unformatted%22%3A+%22hawaii%22%7D; Domain=.yelp.com; Max-Age=630720000; Path=/; expires=Wed, 21-May-2036 11:44:32 GMT
+Set-Cookie: hl=en_US; Domain=.yelp.com; Max-Age=630720000; Path=/; expires=Wed, 21-May-2036 11:44:33 GMT
+Set-Cookie: sc=8a93028c18; Path=/
+Vary: Accept-Encoding
+Server: cloudflare-nginx
+X-Xss-Protection: 1; report=https://www.yelp.com/xss_protection_report
+X-Mode: ro
+Cache-Control: private
+Date: Thu, 26 May 2016 11:44:33 GMT
+X-Proxied: extlb4-r9-iad1
+Cf-Ray: 2a90f9c9660d0166-ORD
+Content-Type: text/html; charset=UTF-8
+X-Crawlera-Version: 1.11.5
+X-Crawlera-Slave: 107.173.61.240:3128

@@ -1,0 +1,20 @@
+X-Node: www_all, web81-r8-iad1
+Content-Encoding: gzip
+Set-Cookie: __cfduid=d94e14f32fe30aa286fac58687e9822e31464260415; expires=Fri, 26-May-17 11:00:15 GMT; path=/; domain=.yelp.com; HttpOnly
+Set-Cookie: yuv=XGDk35mrbsfY6LqoEm0ndRm-2IQxPLtx9QKtzLNzNo0b8ts3Fyg2Ss-RlgXrKYyqZPMQBpqQjUh6WVPSkW0VY16k1m_p7AW0; Domain=.yelp.com; Max-Age=630720000; Path=/; expires=Wed, 21-May-2036 11:00:15 GMT
+Set-Cookie: bse=1cd372cde20482492f9ea412105a26f2; Domain=.yelp.com; Path=/; HttpOnly
+Set-Cookie: recentlocations=5+Niagara+Square%2C+Buffalo%2C+NY+14202%2C+USA; Domain=.yelp.com; Path=/
+Set-Cookie: location=%7B%22city%22%3A+%22Salt+Lake+City%22%2C+%22zip%22%3A+%22%22%2C+%22address1%22%3A+%22%22%2C+%22address2%22%3A+%22%22%2C+%22address3%22%3A+%22%22%2C+%22state%22%3A+%22UT%22%2C+%22country%22%3A+%22US%22%2C+%22unformatted%22%3A+%22Salt+Lake+City%2C+Salt+Lake+City%2C+UT%22%7D; Domain=.yelp.com; Max-Age=630720000; Path=/; expires=Wed, 21-May-2036 11:00:15 GMT
+Set-Cookie: hl=en_US; Domain=.yelp.com; Max-Age=630720000; Path=/; expires=Wed, 21-May-2036 11:00:16 GMT
+Set-Cookie: sc=8a93028c18; Path=/
+Vary: Accept-Encoding
+Server: cloudflare-nginx
+X-Xss-Protection: 1; report=https://www.yelp.com/xss_protection_report
+X-Mode: ro
+Cache-Control: private
+Date: Thu, 26 May 2016 11:00:16 GMT
+X-Proxied: extlb3-r8-iad1
+Cf-Ray: 2a90b8ed1af82525-ORD
+Content-Type: text/html; charset=UTF-8
+X-Crawlera-Version: 1.11.5
+X-Crawlera-Slave: 107.173.89.177:3128

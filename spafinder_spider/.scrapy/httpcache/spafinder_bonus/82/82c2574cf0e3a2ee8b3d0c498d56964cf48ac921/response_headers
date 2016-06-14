@@ -1,0 +1,20 @@
+X-Node: www_all, web20-r4-iad1
+Content-Encoding: gzip
+Set-Cookie: __cfduid=ddebf02899518a2d386b100ca4c4b9f7d1464260393; expires=Fri, 26-May-17 10:59:53 GMT; path=/; domain=.yelp.com; HttpOnly
+Set-Cookie: yuv=mpXuXipxTC2diqUs4TK5bUVvGiVky6JnYkt3zRNlb2EM5QyKnnLmWRwiN4N2wgpSDGx53Syp1_7OWLU2kHEjTeaKXLgPv5FZ; Domain=.yelp.com; Max-Age=630720000; Path=/; expires=Wed, 21-May-2036 10:59:53 GMT
+Set-Cookie: bse=3773cb6f93ebc297683bebc7777f0474; Domain=.yelp.com; Path=/; HttpOnly
+Set-Cookie: recentlocations=San+Francisco%2C+CA%2C+USA; Domain=.yelp.com; Path=/
+Set-Cookie: location=%7B%22city%22%3A+%22Salt+Lake+City%22%2C+%22zip%22%3A+%22%22%2C+%22address1%22%3A+%22%22%2C+%22address2%22%3A+%22%22%2C+%22address3%22%3A+%22%22%2C+%22state%22%3A+%22UT%22%2C+%22country%22%3A+%22US%22%2C+%22unformatted%22%3A+%22Salt+Lake+City%2C+Salt+Lake+City%2C+UT%22%7D; Domain=.yelp.com; Max-Age=630720000; Path=/; expires=Wed, 21-May-2036 10:59:53 GMT
+Set-Cookie: hl=en_US; Domain=.yelp.com; Max-Age=630720000; Path=/; expires=Wed, 21-May-2036 10:59:54 GMT
+Set-Cookie: sc=8a93028c18; Path=/
+Vary: Accept-Encoding
+Server: cloudflare-nginx
+X-Xss-Protection: 1; report=https://www.yelp.com/xss_protection_report
+X-Mode: ro
+Cache-Control: private
+Date: Thu, 26 May 2016 10:59:54 GMT
+X-Proxied: extlb3-r8-iad1
+Cf-Ray: 2a90b862666d15fe-JNB
+Content-Type: text/html; charset=UTF-8
+X-Crawlera-Version: 1.11.5
+X-Crawlera-Slave: 154.127.58.253:3128
